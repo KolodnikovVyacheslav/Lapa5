@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"injector"},{"l":"org.example"},{"l":"somepackage"}];updateSearchResults();
